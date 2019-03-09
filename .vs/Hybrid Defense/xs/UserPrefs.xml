@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{2CCBF1A6-FA57-DE7B-8105-D4692424445C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ManaBar.cs">
+    <Files>
+      <File FileName="Assets/Scripts/healthBar.cs" Line="51" Column="1" />
+      <File FileName="Assets/Scripts/ManaBar.cs" Line="51" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hybrid Defense" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ManaBar.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
